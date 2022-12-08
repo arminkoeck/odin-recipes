@@ -1,1 +1,2 @@
 # odin-recipes
+This project is part of "The Odin Project" and is aimed to exercise the HTML Basics. Once I have completed this assignment, i should be able to handle the basic HTML tags and be more familiar with setting up a project. For this Project i will create mutliple Recipe Pages, which will all be linked on a main page.
