@@ -1,0 +1,22 @@
+
+body {
+    margin-left: 20px;
+    font-family: Copperplate, Verdana, sans-serif;
+}
+
+h1 {
+    color: #29af29;
+}
+
+.img-resize {
+    width: 400px;
+    height: auto;
+    border-color: #29af29;
+    border-style: solid;
+    border-radius: 20px;
+}
+
+li {
+    color: #29af29
+    
+}
